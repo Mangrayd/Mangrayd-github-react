@@ -1,0 +1,9 @@
+[
+  { "lang":"JavaScript", "percent":"54%" },
+  { "lang":"HTML5", "percent":"86%" },
+  { "lang":"CSS3", "percent": "86%" },
+  { "lang":"jQuery", "percent": "82%" },
+  { "lang":"SASS/SCSS", "percent":"61%" },
+  { "lang":"Vue.js", "percent":"56%" },
+  { "lang":"React", "percent":"10%" }
+]

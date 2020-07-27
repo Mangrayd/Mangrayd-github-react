@@ -1,0 +1,80 @@
+
+:root {
+  --accent: #263238;
+  --primary: #37474f;
+}
+.App {
+  display: grid;
+}
+.layer {
+  padding: 30px 15px;
+  color: black;
+}
+@media (min-width: 576px) {
+  .layer {
+    padding: 40px 20px;
+  }
+}
+@media (min-width: 768px) {
+  .layer {
+    padding: 40px 30px;
+  }
+}
+.layer--primary {
+  background-color: var(--primary);
+  color: white;
+}
+.layer--accent {
+  background-color: var(--accent);
+  color: white;
+}
+@media (min-width: 768px) {
+  .App {
+    grid-template-columns: 40% 60%;
+  }
+}
+@media (min-width: 992px) {
+  .App {
+    grid-template-columns: 30% 70%;
+  }
+}
+@media (min-width: 1200px){
+  .App {
+    grid-template-columns: 30% 70%;
+  }
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  /*background-color: #282c34;*/
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

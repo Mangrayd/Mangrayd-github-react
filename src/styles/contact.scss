@@ -1,0 +1,25 @@
+.contact {
+  $size: 20px;
+  display: grid;
+  grid-template-columns: $size auto;
+  align-items: center;
+  grid-gap: 5px;
+  &__icon-wrp {
+    width: $size;
+    height: $size;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    color: black;
+    & > svg {
+      display: block;
+      font-size: $size/2;
+      margin: auto;
+      width: 1em;
+      height: 1em;
+    }
+  }
+  &__title {
+    font-size: 12px;
+  }
+}

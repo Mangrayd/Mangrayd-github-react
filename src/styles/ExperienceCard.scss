@@ -1,0 +1,15 @@
+.ExperienceCard {
+  color: inherit;
+  &__title {
+    text-transform: uppercase;
+    font-size: 1.4em;
+    margin-bottom: 0.2em;
+  }
+  &__option {
+    font-size: 0.7em;
+    color: #90a4ae;
+  }
+  &__body {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "place": "Cadfem CIS RUS",
+    "city": "Санкт-Петербург",
+    "position": "Frontend разработчик",
+    "date": "Май 2017 — настоящее время",
+    "description":"<p>Стек:</p><ul><li>JS+scss+webpack</li><li>Vue.js + vue-router + Vuex</li><li>React.js + react-router + Redux</li><li>Интеграция с python + Django</li><li>Trello - для постановки задач</li></ul><p>Задачи:</p><ul><li>написание js скриптов, верстка по макету, оптимизация (асинхронная загрузка js и css компонентов)</li><li>cоздание личного кабинета для участников мероприятий на&nbsp;Vue.js и Django Rest Framework</li><li>создание проекта каталога-товаров на&nbsp;React.js и Django Rest Framework</li><li>отслеживание статуса&nbsp;пользователя онлайн/оффлайн (Socket.io)</li><li>cоздание мобильного приложения ( для того же личного кабинета ) с использованием Dart + Flutter</li><li>небольшие задачи по three.js (3d сетка с эффектом волн)</li></ul>"
+  },
+  {
+    "place": "Kinoafisha.info",
+    "city": "Санкт-Петербург",
+    "position": "Frontend разработчик",
+    "date": "Май 2017 — Апрель 2017",
+    "description":"<p>Отличная возможность поработать с крупным проектом с высокой загруженностью, большим количеством страниц и js модулей.</p><p>Стек:</p><ul><li>JS+sass/less+gulp</li><li>Vue.js</li><li>Jira - для постановки задач</li></ul><p>Задачи:</p><ul><li>создание JS модулей</li><li>рефакторинг мобильной (отдельной) версии сайта, создание сборки&nbsp;gulp+babel+less</li><li>создание нового раздела в мобильном приложении на&nbsp;react-native&nbsp;с использованием обертки expo.io</li></ul><p>Причина увольнения: отсутствие задач, развития.</p><p>(Рекомендательное письмо)</p>"
+  },
+  {
+    "place": "Active Internet Solutions",
+    "city": "Санкт-Петербург",
+    "position": "Frontend разработчик",
+    "date": "Октябрь 2016 — Май 2017",
+    "description":"<p>Стек:</p><ul><li>JS/require.js+sass+gulp</li><li>Vue.js + vue-router + webpack</li><li>PHP+Smarty на сервере</li></ul><p>Задачи:</p><ul><li>верстка + написание js-модулей</li><li>миграция админки&nbsp;компании на Vue.js</li></ul><p>Причина увольнения: переезд офиса в другую часть города</p>"
+  },
+  {
+    "place": "Web-studio «AXIOMA»",
+    "city": "Новокузнецк",
+    "position": "Full-stack разработчик",
+    "date": "Май 2014 — Сентябрь 2016",
+    "description":"<p>Стек:</p><ul><li>jQuery + css</li><li>позже jQuery/CoffeeScript + sass/scss +&nbsp;gulp</li><li>PHP на сервере</li></ul><p>Задачи:</p><ul><li>верстка написание клиентских и серверных скриптов</li><li>интеграция с&nbsp;WordPress, 1C Bitrix&nbsp; и собственной CMS компании</li></ul><p>Причина увольнения: переезд в Санкт-Петербург</p>"
+  }
+]
